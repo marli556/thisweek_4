@@ -1,7 +1,6 @@
 **PrOject tracker**
 
-#about
- this is an interactive program that allow user to add projects to their list.
+ This is an interactive program that allow user to add projects to their list.
 
 **project Contents** 
 .[Userguide](#userguide)
@@ -14,10 +13,12 @@
 First click the click button to start the **ADDPROJECT**  to start the project and then you can select from the each box and fill in the boxes as ininstructed.
 
 **features**
-. the project time start as soon as you click the add project.
-. to see the time, just look about the project list.
-. it allow to to add your name you want, addproject, and select the date of the project.
-lastly, you can click the add button to add the project to the list.
+.the project time start as soon as you click the add project.
+.to see the time, just look about the project list.
+.it allow to to add your name you want, addproject, and select the date of the project.
+.click the add button to add the project to the list.
+.remove project from list if not wanted
+
 
 **what to do**
 1.click the add project button to start
@@ -32,5 +33,6 @@ lastly, you can click the add button to add the project to the list.
 .Bootstrap
 .JaveScript
 
-**ABOUT**
+**About**
+In this program user are allow to add project of the given type to his/her list with date on it. Also user are allow to delete items that they don't want on the list.
 
