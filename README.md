@@ -1,5 +1,5 @@
 **Code Quiz**
-project_tracker 
+
 
 This game is an interactive game that allow user to play it by tasting their knowledge on computer science questions and add all the score and display at the end of the game.
 
