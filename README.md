@@ -1,38 +1,36 @@
-**Code Quiz**
+**PrOject tracker**
 
+#about
+ this is an interactive program that allow user to add projects to their list.
 
-This game is an interactive game that allow user to play it by tasting their knowledge on computer science questions and add all the score and display at the end of the game.
-
-
-**Quiz Contents** 
+**project Contents** 
 .[Userguide](#userguide)
 .[Features](#features)
-.[How to Play](#how-to-play)
+.[what to do](#what-to-do)
 .[Built With](#built-with)
 .[About](#about)
 
 **Userguide**
-First click the click button to start the quiz and then you can select the best answer from the choices being diaply. Remember this is base on computer science and literature.
+First click the click button to start the **ADDPROJECT**  to start the project and then you can select from the each box and fill in the boxes as ininstructed.
 
-**Features**
-1.The quiz is has a 75 mins time limit
-2.At the end it ask for initails and save it with your score.
-3.Lastly, it allows you to track your score to see which scores is higher than the others.
+**features**
+. the project time start as soon as you click the add project.
+. to see the time, just look about the project list.
+. it allow to to add your name you want, addproject, and select the date of the project.
+lastly, you can click the add button to add the project to the list.
 
-##How to Play
-1.first click the "Start Quiz" to start the quiz.
-2.click each answer that you think is best suited for the given question.
-3.if the answer given is correct or wrong the quiz will go to the next question.
-4.remember, wrong answer will reduce your remaining time.
-5.The quiz ends when user complete all questions or when their timer runs out.
-6.finally,you can see all your score at the end of the quiz beside your initials.
+**what to do**
+1.click the add project button to start
+2.give your project a name of your choice
+3. add the project type by choosing from the dropdown menu: JavaScript,JQUERY,and Bootstrap
+4.select your prefere date for the project
+5. add the project to the list.
 
-**Built With**
+**Build With**
 .HTML
-.CSS
-.JavaScript
+.JQuery
+.Bootstrap
+.JaveScript
 
-**About**
-This quiz was buit upon provided code given. in this code, i implemented javaScript code to so that user can test their knowledge on the given questions with in 75 mins.once they are out of time, this program will ask for their initials and save the scores so user can keep track of it.
-
+**ABOUT**
 
