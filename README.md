@@ -6,9 +6,9 @@
 
 -[Userguide](#userguide)
 -[Features](#features)
--[what to do](#what-to-do)
--[Built With](#built-with)
--[About](#about)
+-[What to do](#What-to-do)
+-[Built With](#Build-With)
+-[About](#About)
 
 ## Userguid
 
@@ -23,7 +23,7 @@ First click the click button to start the **ADDPROJECT**  to start the project a
 .remove project from list if not wanted
 
 
-## what to do
+## What-to-do
 1.click the add project button to start
 2.give your project a name of your choice
 3. add the project type by choosing from the dropdown menu: JavaScript,JQUERY,and Bootstrap
