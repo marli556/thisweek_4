@@ -31,10 +31,10 @@ First click the click button to start the **ADDPROJECT**  to start the project a
 5. add the project to the list.
 
 ## Build With
-   # HTML
-   # JQuery
-   # Bootstrap
-   # JaveScript
+   # (HTML)
+   # (JQuery)
+   # (Bootstrap)
+   # (JaveScript)
 
 ## About
 In this program user are allow to add project of the given type to his/her list with date on it. Also user are allow to delete items that they don't want on the list.
