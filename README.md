@@ -4,11 +4,11 @@
 
 ## project Contents
 
--[Userguide](#userguide)
--[Features](#features)
--[What to do](#What-to-do)
--[Built With](#Build-With)
--[About](#About)
+# -[Userguide](#userguide)
+# -[Features](#features)
+# -[What to do](#What-to-do)
+# -[Built With](#Build-With)
+# -[About](#About)
 
 ## Userguid
 
@@ -40,7 +40,6 @@ First click the click button to start the **ADDPROJECT**  to start the project a
 In this program user are allow to add project of the given type to his/her list with date on it. Also user are allow to delete items that they don't want on the list.
 
 ## screenshots
-![](assets/images/Screenshot1.png)
-![screenshots2](assets/images/Screenshot2.png)
+screenshot are in assests/images
 
 
