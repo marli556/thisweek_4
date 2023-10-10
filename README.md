@@ -1,40 +1,43 @@
 ## PrOject trackeR
 
  This is an interactive program that allow user to add projects to their list.
+ 
+## Table of Contents
+- [Userguide](#userguide)
+- [Features](#features)
+- [What to do](#what-to-do)
+- [Built With](#build-with)
+- [About](#about)
 
-## project Contents
 
-# [Userguide](#userguide)
-# [Features](#features)
-# [What to do](#What-to-do)
-# [Built With](#Build-With)
-# [About](#About)
-
-## Userguid
+## Userguide
 
 First click the click button to start the **ADDPROJECT**  to start the project and then you can select from the each box and fill in the boxes as ininstructed.
 
-## features
+## Features
 
-.the project time start as soon as you click the add project.
-.to see the time, just look about the project list.
-.it allow to to add your name you want, addproject, and select the date of the project.
-.click the add button to add the project to the list.
-.remove project from list if not wanted
+- The project timer starts as soon as you click the "Add Project" button.
+- You can easily check the time for each project in the project list.
+- You can customize the project name, add project details, and select the project's start date.
+- Click the "Add" button to add the project to the list.
+- Remove unwanted projects from the list with a simple action.
+
 
 
 ## What to do
-1.click the add project button to start
-2.give your project a name of your choice
-3. add the project type by choosing from the dropdown menu: JavaScript,JQUERY,and Bootstrap
-4.select your prefere date for the project
-5. add the project to the list.
+1. Click the "Add Project" button to get started.
+2. Give your project a name of your choice.
+3. Select the project type by choosing from the dropdown menu: JavaScript, jQuery, and Bootstrap.
+4. Choose your preferred date for the project.
+5. Add the project to the list.
+
 
 ## Build With
-   # (HTML)
-   # (JQuery)
-   # (Bootstrap)
-   # (JaveScript)
+- HTML
+- jQuery
+- Bootstrap
+- JavaScript
+
 
 ## About
 In this program user are allow to add project of the given type to his/her list with date on it. Also user are allow to delete items that they don't want on the list.
