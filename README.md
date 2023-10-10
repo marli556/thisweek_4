@@ -3,16 +3,16 @@
  This is an interactive program that allow user to add projects to their list.
 
 **project Contents** 
-.[Userguide](#userguide)
-.[Features](#features)
-.[what to do](#what-to-do)
-.[Built With](#built-with)
-.[About](#about)
+-[Userguide](#userguide)
+-[Features](#features)
+-[what to do](#what-to-do)
+-[Built With](#built-with)
+-[About](#about)
 
-**Userguide**
+##Userguid
 First click the click button to start the **ADDPROJECT**  to start the project and then you can select from the each box and fill in the boxes as ininstructed.
 
-**features**
+##features
 .the project time start as soon as you click the add project.
 .to see the time, just look about the project list.
 .it allow to to add your name you want, addproject, and select the date of the project.
